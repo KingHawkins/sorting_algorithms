@@ -1,17 +1,19 @@
 <h1>0x1B. C - Sorting algorithms & Big O</h1>
-`C` `Algorithm` `Data Structure`
+<code>C</code> <code>Algorithm</code> <code>Data Structure</code>
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png">
 
 <h2>General</h2>
 1. At least four different sorting algorithms
-2. What is the `Big O notation` and how to evaluate the time complexity of an algorithm.
+2. What is the <code>Big O notation</code> and how to evaluate the time complexity of an algorithm.
 3. How to select the best sorting algorithm for a given input
 4. What is a stable sorting algorithm
 
 <h2>More Info</h2>
 <h3>Data Structure and Functions</h3>
-For this project you are given the following `print_array` and `print_list` functions:
+<p>For this project you are given the following `print_array` and `print_list` functions:</p>
+
+
 1. `print_array` function
 
 
